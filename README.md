@@ -1,6 +1,6 @@
 # age_calculator_codealpha
 
-#project for age_calculator given bt codeAlpha
+#project for age_calculator given by codeAlpha
 
 #Task 1
 #Html , css ,  and javascript project 
